@@ -41,7 +41,7 @@
 <hr/>
 
 ```
-→ favorite/pinned repositories
+→ favorite public repositories
 ```
 <div align="center">
   <table>
@@ -54,18 +54,6 @@
       <td>
         <a href="https://github.com/mayspc/comment-issues">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayspc&repo=comment-issues&description_lines_count=1" alt="comment-issues" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/mayspc/pint">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayspc&repo=pint&description_lines_count=1" alt="pint" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mayspc/inkdrop-command-palette">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayspc&repo=inkdrop-command-palette&description_lines_count=1" alt="inkdrop-command-palette" />
         </a>
       </td>
     </tr>
