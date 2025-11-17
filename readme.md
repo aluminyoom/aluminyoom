@@ -35,7 +35,7 @@
       .   * .                    +  *       *          +   .       '                        '  .              . +  
 ```
 <p align=center>
-  ✦ • <a href="https://space.ryanaque.com">blog</a> • <a href="https://ryanaque.com">portfolio</a> • <a href="https://hajspace.com">name a shark</a> • ✦
+  ✦ • <a href="https://blog.ryanaque.com">blog</a> • <a href="https://ryanaque.com">portfolio</a> • <a href="https://hajspace.com">name a shark</a> • ✦
 </p>
 
 <hr/>
@@ -47,25 +47,25 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/mayspc/vencord-antirickroll">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayspc&repo=vencord-antirickroll&description_lines_count=1" alt="vencord-antirickroll" />
+        <a href="https://github.com/maytcha/vencord-antirickroll">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=maytcha&repo=vencord-antirickroll&description_lines_count=1" alt="vencord-antirickroll" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/mayspc/comment-issues">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayspc&repo=comment-issues&description_lines_count=1" alt="comment-issues" />
+        <a href="https://github.com/maytcha/comment-issues">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=maytcha&repo=comment-issues&description_lines_count=1" alt="comment-issues" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/mayspc/opencore-secureboot-tool">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayspc&repo=opencore-secureboot-tool&description_lines_count=1" alt="opencore-secureboot-tool" />
+        <a href="https://github.com/maytcha/opencore-secureboot-tool">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=maytcha&repo=opencore-secureboot-tool&description_lines_count=1" alt="opencore-secureboot-tool" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/mayspc/driftlet">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayspc&repo=driftlet&description_lines_count=1" alt="driftlet" />
+        <a href="https://github.com/maytcha/driftlet">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=maytcha&repo=driftlet&description_lines_count=1" alt="driftlet" />
         </a>
       </td>
     </tr>
