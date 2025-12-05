@@ -39,35 +39,3 @@
 </p>
 
 <hr/>
-
-```
-→ favorite public repositories
-```
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/aluminyoom/vencord-antirickroll">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aluminyoom&repo=vencord-antirickroll&description_lines_count=1" alt="vencord-antirickroll" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aluminyoom/comment-issues">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aluminyoom&repo=comment-issues&description_lines_count=1" alt="comment-issues" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/aluminyoom/opencore-secureboot-tool">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aluminyoom&repo=opencore-secureboot-tool&description_lines_count=1" alt="opencore-secureboot-tool" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aluminyoom/driftlet">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aluminyoom&repo=driftlet&description_lines_count=1" alt="driftlet" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
