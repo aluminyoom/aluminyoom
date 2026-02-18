@@ -35,7 +35,7 @@
       .   * .                    +  *       *          +   .       '                        '  .              . +  
 ```
 <p align=center>
-  ✦ • <a href="https://blog.ryanaque.com">blog</a> • <a href="https://ryanaque.com">portfolio</a> • <a href="https://hajspace.com">name a shark</a> • ✦
+  ✦ • <a href="https://ryanaque.com/wfd">writings for discussion</a> • <a href="https://ryanaque.com">personal website</a> • <a href="https://hajspace.com">name a shark</a> • ✦
 </p>
 
 <hr/>
